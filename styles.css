@@ -21,7 +21,7 @@
 /******************** The extension message that indicates that the extension is working ********************/
 .my-extension-banner {
   position: fixed;
-  top: 10px;
+  top: 100px;
   right: 10px;
   background-color: rgba(0, 0, 0, 0.85);
   color: white;
@@ -35,6 +35,7 @@
   align-items: center;
   text-align: center;
   gap: 10px;
+  border: solid 1px #4caf50;
 }
 
 .my-extension-close {
